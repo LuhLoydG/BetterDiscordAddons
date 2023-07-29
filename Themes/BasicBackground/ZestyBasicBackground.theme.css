@@ -29,7 +29,7 @@
 	--textshadow:					transparent;				/* default: transparent			(textshadow for text ontop of accentcolor nodes, ONLY accepts a color, no px)	*/
 	--settingsicons:				1;							/* Use Settings Icons in User Settings: 1 = yes, 0 = no															*/
 	
-	--background:					url(https://cdn.discordapp.com/attachments/801093689971048468/1134825998098124892/she_s_a_bad_girl__and_that_s_why_you_want_her___by_bugbaited_detje6g-fullview.png);	/* general background image				*/
+	--background:					url(https://cdn.discordapp.com/attachments/801093689971048468/1134830079617282108/pawpularrr_by_ohsotoasty_df13z7u-414w-2x.jpg);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
 	--backgroundsize:				contain;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
 	--backgroundblur:				10;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
