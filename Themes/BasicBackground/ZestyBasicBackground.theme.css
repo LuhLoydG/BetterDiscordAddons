@@ -31,8 +31,8 @@
 	
 	--background:					url(https://cdn.discordapp.com/attachments/801093689971048468/1134825998098124892/she_s_a_bad_girl__and_that_s_why_you_want_her___by_bugbaited_detje6g-fullview.png);	/* general background image				*/
 	--backgroundposition:			center;						/* default: center				(position of background - values: [center/top/right/bottom/left])				*/
-	--backgroundsize:				cover;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
-	--backgroundblur:				unset;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
+	--backgroundsize:				contain;						/* default: cover				(sizefit of background - values: [cover/contain/auto])							*/
+	--backgroundblur:				10;						/* default: unset				(blur in px, only works when --background is set to an image)					*/
 	
 	--popout:						var(--background);			/* default: var(--background)	(change to use another background/color for modals/popouts)						*/
 	--popoutposition:				var(--backgroundposition);	/* default: center				(position of popout - values: [center/top/right/bottom/left])					*/
